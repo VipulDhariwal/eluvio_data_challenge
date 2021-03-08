@@ -21,7 +21,7 @@ These measures even surpassed the scores of [Rao]. The low-memory code yield per
 
 The main idea in both the code is inspired the solution of [Rao]:
 
-> We train the nueral network on the entire
+> We train the neural network on the entire
 > movie to let it learn the effect of 'sequence'
 > of shots. 
 
