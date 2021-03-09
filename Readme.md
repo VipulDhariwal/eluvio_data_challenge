@@ -49,6 +49,7 @@ Requirements:
 ## High-memory code
 Steps followed were -
 - All tensors were opened and flattened into a dataframe. Hence, 'place' is converetd into 2048 features and 512 features for each 'cast', 'audio' and 'action' features.
+- Tensors were subtracted with the next tensors to get differentiation and find out the pattern of changes that resulted in scene transition.
 - All the values were normalized between 0 and 1 for effiecient training.
 - The dataframe was cleaned for accidental NaN values.
 - All 5 features (Place, Cast, Action, Audio and Prediction) were converetd into a flat N X 3585 dataframe.
