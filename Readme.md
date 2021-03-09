@@ -68,6 +68,5 @@ I also tried using the ensemble method for high-memory code. The idea was to get
 
 Thank you Eluvio team for this wonderful well-thought challange. I really enjoyed working on it.
 
-References
 
 [Rao]: <https://arxiv.org/pdf/2004.02678.pdf>
