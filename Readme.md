@@ -63,7 +63,7 @@ Steps followed were -
 
 At the end the predicted list was extracted from the dataframe based on the movie_id and stored in the 64 movie files as pickle.
 
-I also tried using the ensemble method for high-memory code. The idea was to get a prediction list based just on four features (place, cast, audio and action) and then combine the predicted list with given predicted list to train a new model to get the final probabilty list. However that model did not gain greater accuracy and need more time to fine tune.
+I also tried using the ensemble method for high-memory code. The idea was to get a prediction list based just on four features (place, cast, audio and action) and then combine the predicted list with given predicted list to train a new model to get the final probabilty list. However that model did not gain greater accuracy and need more time to fine tune. I also faced challange to run high performance neural network models on my personal computer but when I approached my research incharge professor she promptly helped me and gave access to the university linux servers housed with huge memory and GPU.
 
 Thank you Eluvio team for this wonderful well-thought challange. I really enjoyed working on it.
 
