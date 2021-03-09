@@ -1,4 +1,4 @@
-# Eluvio Data Challange
+# Eluvio Data Challenge
 ## _By Vipul Dhariwal_
 
 
